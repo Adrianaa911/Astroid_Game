@@ -1,7 +1,6 @@
 Asteroid Game (HTML, JavaScript) – Designed and developed a classic arcade-style asteroid shooter game using HTML5 Canvas and vanilla JavaScript.
 Implemented real-time animations, collision detection, score tracking, and responsive controls to create an engaging user experience.
 
-
 The Bsics:
 1. Project Setup
 2. Create a player
