@@ -1,1 +1,9 @@
 
+The Bsics:
+1. Project Setup
+2. Create a player
+3. Move and rotate player
+4. Shoot projectiles
+5. Spawn asteroids
+6. Hit asteroids
+7. Game over
