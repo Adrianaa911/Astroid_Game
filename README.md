@@ -2,6 +2,7 @@ Asteroid Game (HTML, JavaScript) – Designed and developed a classic arcade-sty
 Implemented real-time animations, collision detection, score tracking, and responsive controls to create an engaging user experience.
 
 How to play: 
+
 space -> shoot, 
 w -> move forward, 
 a -> move left, 
